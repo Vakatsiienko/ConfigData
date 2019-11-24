@@ -1,2 +1,9 @@
 ---
+spring:
+  profiles: default
 lucky-word: Emergence
+
+---
+spring:
+  profiles: four
+lucky-word: 4
