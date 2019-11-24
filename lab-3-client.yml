@@ -7,3 +7,8 @@ lucky-word: Emergence
 spring:
   profiles: four
 lucky-word: 4
+
+---
+spring:
+  profiles: one-more
+lucky-word: MORE
